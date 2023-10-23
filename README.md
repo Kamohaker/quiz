@@ -20,5 +20,5 @@ Project download:
 ```
 5. Next start aplication
 ```cmd
-   npm start
+   npx expo start
 ```
